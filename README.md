@@ -9,5 +9,9 @@
 3. webpack自动化工具的配置，基本上满足日常开发的要求，比如，压缩，加载css 图片，后期会加上合并，按需加载，分情况打包编译生产和开发环境等。
 
 用法:
-git clone 
+1. git clone https://github.com/sunShineLoveMe/react-family.git
+2. npm install
+3. npm start
+
+端口访问: http://localhost:8080
 
